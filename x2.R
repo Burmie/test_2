@@ -1,4 +1,4 @@
-x <- function(x){
-  x <- x*x
+x_power<- function(x,y){
+  x <- x*y
   x
 }
